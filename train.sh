@@ -1,0 +1,1 @@
+python main.py --traindata_dir 'output'
